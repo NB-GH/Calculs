@@ -32,7 +32,7 @@ namespace Calculs
                 // traitement des choix
                 switch (choix)
                 {
-                    case "1": // addition
+                 
                         // saisie de la réponse
                         correct = false;
                         while (!correct)
